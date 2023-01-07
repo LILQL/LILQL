@@ -1,10 +1,16 @@
 ### Hi there 👋
 ### LILQL
+
+<p align="center">
+  <a href="https://github.com/LILQL">
+    <img src="https://github.com/LILQL/LILQL/blob/main/Textures/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png" alt="LILQL" /></a>
+</p>
+
 <!-- Social icons section & Top Langs & GitHub Streak -->
-<a href="https://https://github.com/LILQL/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=LILQL&show_icons=true&theme=calm&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact" /><!-- wi*quL3fcV --><img height="137px" src="https://streak-stats.demolab.com/?user=LILQL&theme=calm&line_height=84" /></a>
+<a href="https://https://github.com/LILQL/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=LILQL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact&hide_border=true" /><!-- wi*quL3fcV --><img height="274px" src="https://streak-stats.demolab.com/?user=LILQL&theme=calm&line_height=84" /></a>
 
 <!-- Social icons section -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LILQL&&bg_color=373f51&color=e07a5f&line=edae49&point=ebcfb2&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LILQL&bg_color=373f51&color=e07a5f&line=edae49&point=ebcfb2&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Readme Card -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LILQL&repo=C&theme=calm)](https://github.com/LILQL/C)
