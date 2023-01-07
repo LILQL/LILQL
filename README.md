@@ -37,7 +37,17 @@
   <p>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=white"></a>
+      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white"></a>
+      <a href="#"><img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+      <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white"></a>
+      <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
+  </p>
+  
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 </details>
 
