@@ -49,6 +49,14 @@
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
+  
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <a href="#"><img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src ="https://img.shields.io/badge/flask-%23000.svg?&logo=flask&logoColor=white"></a>
+  </p>
+
 </details>
 
 
