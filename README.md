@@ -1,10 +1,9 @@
 ### Hi there 👋
 ### LILQL
-<!-- Social icons section & Top Langs -->
-<a href="https://https://github.com/LILQL/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=LILQL&show_icons=true&theme=calm&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact" /></a>
+<!-- Social icons section & Top Langs & GitHub Streak -->
+<a href="https://https://github.com/LILQL/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=LILQL&show_icons=true&theme=calm&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact" /><!-- wi*quL3fcV --><img height="137px" src="https://streak-stats.demolab.com/?user=LILQL&theme=calm&line_height=84" /></a>
 
 <!-- Social icons section -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LILQL&theme=calm&line_height=42)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LILQL&&bg_color=373f51&color=e07a5f&line=edae49&point=ebcfb2&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Readme Card -->
