@@ -3,7 +3,13 @@
 
 <!-- Social icons section -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LILQL&show_icons=true&theme=calm)
+
+<!-- Top Langs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact)](https://github.com/LILQL)
+
+<!-- Social icons section -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LILQL&theme=calm)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LILQL&&bg_color=373f51&color=e07a5f&line=edae49&point=ebcfb2&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Readme Card -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LILQL&repo=C&theme=calm)](https://github.com/LILQL/C)
@@ -11,8 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LILQL&repo=Java&theme=calm)](https://github.com/LILQL/Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LILQL&repo=test_git&theme=calm)](https://github.com/LILQL/test_git)
 
-<!-- Top Langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact)](https://github.com/LILQL)
 
 <!-- Details --> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
