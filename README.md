@@ -8,6 +8,8 @@
 
 <!-- Social icons section & Top Langs & GitHub Streak -->
 <a href="https://https://github.com/LILQL/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=LILQL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LILQL&langs_count=8&theme=calm&layout=compact&hide_border=true&hide_title=true" />
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF965B&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=Harder+Better+Faster+Stronger.;Harder+Better+Faster+Stronger.;Harder+Better+Faster+Stronger." alt="Typing SVG" /></a>
 
 <!-- Social icons section -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LILQL&bg_color=373f51&color=e07a5f&line=edae49&point=ebcfb2&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
